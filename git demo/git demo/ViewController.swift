@@ -16,6 +16,7 @@ class ViewController: UIViewController {
         
         print("this is test demo")
         print("after merge")
+        print("again merge")
     }
 
     override func didReceiveMemoryWarning() {
